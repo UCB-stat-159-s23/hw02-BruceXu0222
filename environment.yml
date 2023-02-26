@@ -158,4 +158,3 @@ dependencies:
     - numpy==1.23
     - pillow==9.2
     - scipy==1.8
-prefix: /srv/conda/envs/notebook
